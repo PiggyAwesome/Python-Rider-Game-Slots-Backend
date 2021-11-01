@@ -1,5 +1,10 @@
 # Python-Rider-Game-Slots-Backend
-Backend for selecting a random car with slots. Intended to be similar to the slots in the mobile game "Rider".
+Backend for selecting a random car with slots. Intended to be similar to the slots in the mobile game ["Rider"](https://play.google.com/store/apps/details?id=com.ketchapp.rider&hl=en_ZA&gl=US).
+
+##### Fun 60 min project i did the previous day.
+
+
+## Config
 
 ```py
 
